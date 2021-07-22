@@ -13,3 +13,5 @@ database-1.ce9wwqcz4ow8.us-east-2.rds.amazonaws.com
 
 
 DESKTOP-G10VH48
+
+삭제완료
